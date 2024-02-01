@@ -23,11 +23,12 @@ David de Mexico
 
 Juan Martin de Argentina
 
+Cristian de Argentina
+
 Leví de México
 
 Alex de México
 
 Juan Delgado de Colombia
-
 
 
