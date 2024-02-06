@@ -33,4 +33,4 @@ Alex de México
 
 Juan Delgado de Colombia
 
-Miguel David de Venezuela
+Miguel Martinez de Venezuela
