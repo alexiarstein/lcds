@@ -31,6 +31,6 @@ Leví de México
 
 Alex de México
 
-Juan Delgado de Colombia
+Juan Delgado de Colombia \
 
-Andrw de Colombia
+Andrw de Colombia \
